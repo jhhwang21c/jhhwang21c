@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=John&nbsp;Hwang&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=80&section=header&text=John&nbsp;Hwang&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 
 ### Welcome to my Github 👋
@@ -23,6 +23,7 @@
 
 ### 👀 I’m interested in: Full Stack Development
 ### 📫 How to reach me: johnhwang@college.harvard.edu
+### ⚡ Portfolio: [John's Portfolio](https://gilded-vibraphone-30c.notion.site/Jungho-John-Hwang-s-Portfolio-b915f095f1d24729beb32bf2d6ccc476)
 
 </div>
 
